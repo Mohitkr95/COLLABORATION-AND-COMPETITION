@@ -6,7 +6,7 @@
 
 # Project 3: Collaboration and Competition
 
-### Introduction
+## INTRODUCTION
 
 ![Trained Agent][image1]
 
